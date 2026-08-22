@@ -444,7 +444,7 @@ export default function App() {
               </div>
               <div className="py-8 text-center">
                 <p className="text-neutral-400 text-xs font-medium">
-                  Made by <span className="text-neutral-900 font-bold">Rudra Biloriya</span>
+                  Made by <span className="text-neutral-900 font-bold">Xeorvia</span>
                 </p>
               </div>
             </footer>
